@@ -13,7 +13,7 @@
     <div id="container">
       
         <div class="header"> 
-           <div><img src="..Penny_PJ_Logo.png"alt="Penny Juice Healthy Natural Flavors & Ingredients"Width="164" height="140"></div>
+           <div><img src="Penny_PJ_Logo.png"alt="Penny Juice Healthy Natural Flavors & Ingredients"Width="164" height="140"></div>
         </div> 
            
          <div class="content"></div>
@@ -51,9 +51,9 @@
         </div>
                 
             <div class="flex-container2">
-                <div><img src="..Flavors.png" alt="Penny Juice Healthy Natural Flavors & Ingredients" Width="164" height="176"></div>
-                <div><img src="..Ingredients_2.png" alt="Penny Juice Healthy Natural Flavors & Ingredients" Width="164" height="176"></div>
-                <div><img src="..Customer.png" alt="Penny Juice Healthy Natural Flavors & Ingredients" Width="164" height="176"></div>              
+                <div><img src="Flavors.png" alt="Penny Juice Healthy Natural Flavors & Ingredients" Width="164" height="176"></div>
+                <div><img src="Ingredients_2.png" alt="Penny Juice Healthy Natural Flavors & Ingredients" Width="164" height="176"></div>
+                <div><img src="Customer.png" alt="Penny Juice Healthy Natural Flavors & Ingredients" Width="164" height="176"></div>              
             </div>    
             <br><br><br><br> 
             <div class="footer">
